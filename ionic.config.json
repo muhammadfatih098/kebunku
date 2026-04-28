@@ -1,0 +1,7 @@
+{
+  "name": "kebunku",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
